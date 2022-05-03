@@ -16,4 +16,5 @@ module com.javafx.javafxstudynew {
     exports com.javafx.javafxstudynew.demotype3.demo10;
     exports com.javafx.javafxstudynew.demotype4.demo11;
     exports com.javafx.javafxstudynew.demotype4.demo12;
+    exports com.javafx.javafxstudynew.demotype5.demo13;
 }
